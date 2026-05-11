@@ -1,0 +1,71 @@
+export const courses = [
+  {
+    id: "react-fundamentals",
+    title: "React Fundamentals",
+    description: "Master components, hooks, and state management with modern React.",
+    instructor: "Sara Lin",
+    category: "Frontend",
+    progress: 65,
+    thumbnail: "from-sky-400 to-cyan-500",
+    lessons: [
+      { id: "1", title: "Introduction to React", duration: "08:24" },
+      { id: "2", title: "JSX & Components", duration: "12:10" },
+      { id: "3", title: "Props and State", duration: "15:45" },
+      { id: "4", title: "Hooks Deep Dive", duration: "22:30" },
+      { id: "5", title: "Building a Mini App", duration: "28:00" },
+    ],
+  },
+  {
+    id: "tailwind-css",
+    title: "Tailwind CSS Mastery",
+    description: "Build beautiful, responsive UIs with utility-first CSS.",
+    instructor: "Marcus Reed",
+    category: "Design",
+    progress: 30,
+    thumbnail: "from-cyan-400 to-teal-500",
+    lessons: [
+      { id: "1", title: "Why Utility-First", duration: "06:00" },
+      { id: "2", title: "Layout & Spacing", duration: "14:20" },
+      { id: "3", title: "Responsive Design", duration: "18:50" },
+      { id: "4", title: "Custom Themes", duration: "16:15" },
+    ],
+  },
+  {
+    id: "javascript-essentials",
+    title: "JavaScript Essentials",
+    description: "From variables to async/await — everything you need to write modern JS.",
+    instructor: "Priya Shah",
+    category: "Programming",
+    progress: 90,
+    thumbnail: "from-amber-400 to-orange-500",
+    lessons: [
+      { id: "1", title: "Variables & Types", duration: "10:00" },
+      { id: "2", title: "Functions & Scope", duration: "14:00" },
+      { id: "3", title: "Promises & Async", duration: "20:30" },
+      { id: "4", title: "ES2024 Features", duration: "12:45" },
+    ],
+  },
+  {
+    id: "ui-ux-design",
+    title: "UI/UX Design Principles",
+    description: "Learn the foundations of designing user-friendly digital products.",
+    instructor: "Elena Park",
+    category: "Design",
+    progress: 15,
+    thumbnail: "from-rose-400 to-pink-500",
+    lessons: [
+      { id: "1", title: "Design Thinking", duration: "09:15" },
+      { id: "2", title: "Color & Typography", duration: "13:40" },
+      { id: "3", title: "Wireframing", duration: "17:20" },
+    ],
+  },
+];
+
+export const user = {
+  name: "Alex Morgan",
+  email: "alex.morgan@example.com",
+  initials: "AM",
+  joinedCourses: 4,
+  completedLessons: 18,
+  hoursLearned: 27,
+};
