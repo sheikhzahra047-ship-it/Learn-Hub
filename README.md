@@ -7,8 +7,6 @@ A clean, modern frontend-only Learning Management System portfolio project.
 - Tailwind CSS
 - JavaScript
 - React (JSX)
-- React Router DOM
-- Vite
 
 No backend, no database, no external APIs.
 
@@ -34,3 +32,4 @@ Then open http://localhost:5173
 npm run build
 npm run preview
 ```
+
