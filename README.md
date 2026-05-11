@@ -1,35 +1,46 @@
-# Mini LMS — React + Tailwind
+# 📚 Learn Hub
 
-A clean, modern frontend-only Learning Management System portfolio project.
+Learn Hub is a modern online learning platform where users can explore courses, improve their skills, and manage their learning journey in a simple and interactive way.
 
-## Stack
+
+## 🚀 Features
+
+- 🎓 Browse and explore courses  
+- 📖 Easy-to-use learning interface  
+- 🔍 Search functionality  
+- 📱 Responsive design (mobile + desktop)  
+- ⚡ Fast performance with React + Vite  
+
+
+## 🛠️ Tech Stack
+  
 - HTML
-- Tailwind CSS
-- JavaScript
-- React (JSX)
+- React
+- JavaScript   
+- CSS / Tailwind 
 
-No backend, no database, no external APIs.
+## 📂 Project Setup
 
-## Pages
-- `/` — Login (with form validation)
-- `/dashboard` — Welcome, stats, continue-learning courses
-- `/courses` — Searchable course list
-- `/courses/:courseId` — Lessons + video placeholder + Mark Complete + Prev/Next
-- `/profile` — User info + statistics + per-course progress
-
-## Run locally
+Clone the repository:
 
 ```bash
+git clone https://github.com/sheikhzahra047-ship-it/Learn-Hub
+
+
+Install dependencies: 
+
 npm install
+
+Run the project:
+
 npm run dev
-```
 
-Then open http://localhost:5173
 
-## Build
+🌐 Live Demo
 
-```bash
-npm run build
-npm run preview
-```
+https://learn-hub.vercel.app
 
+
+👨‍💻 Author
+Zahra Batool
+GitHub: https://github.com/
