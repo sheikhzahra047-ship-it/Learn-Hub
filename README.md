@@ -1,33 +1,39 @@
-# 📚 Learn Hub
+# 📚 Learn Hub (Mini LMS)
 
-Learn Hub is a modern online learning platform where users can explore courses, improve their skills, and manage their learning journey in a simple and interactive way.
+Learn Hub is a simple and modern Learning Management System (LMS) built with React and Vite. It allows users to explore courses, view dashboards, track progress, and manage their learning journey easily.
 
+---
 
 ## 🚀 Features
 
-- 🎓 Browse and explore courses  
-- 📖 Easy-to-use learning interface  
-- 🔍 Search functionality  
-- 📱 Responsive design (mobile + desktop)  
-- ⚡ Fast performance with React + Vite  
+- 📖 Browse available courses
+- 📊 User dashboard with progress tracking
+- 🔐 Login & profile system
+- 📚 Individual course pages
+- 📈 Progress bar for learning status
+- ⚡ Fast and responsive UI (Tailwind CSS)
 
+---
 
 ## 🛠️ Tech Stack
-  
-- HTML
-- React
-- JavaScript   
-- CSS / Tailwind 
 
-## 📂 Project Setup
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript 
 
-Clone the repository:
+---
 
+
+---
+
+## 
+
+### 1. Clone the repository
 ```bash
 git clone https://github.com/sheikhzahra047-ship-it/Learn-Hub
 
-
-Install dependencies: 
+Install dependencies:
 
 npm install
 
@@ -35,12 +41,16 @@ Run the project:
 
 npm run dev
 
+Open in browser:
 
-🌐 Live Demo
-
-https://learn-hub.vercel.app
+http://localhost:5173/
 
 
-👨‍💻 Author
-Zahra Batool
-GitHub: https://github.com/
+🎯 Purpose
+
+This project is built for learning purposes to practice React development, component structure, and state management in a real-world LMS-style application.
+
+👩‍💻 Author
+
+Learn Hub Project
+Built with ❤️ using React 
