@@ -20,7 +20,8 @@ Learn Hub is a simple and modern Learning Management System (LMS) built with Rea
 - React.js
 - Vite
 - Tailwind CSS
-- JavaScript 
+- JavaScript
+- Vite
 
 ---
 
